@@ -3,8 +3,13 @@ content_type: resource
 description: This resource describes Vehicles and Design Principles. It also contains
   images of Underwater Vehicles, Surface Vessels, and Offshore Platform. It explains
   the tools for design, Wave Statistics, and Hydrodynamic Forces on Vessels.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/877ee3bcaa6cf36b82d9ca6ed3e585ae_lec1.pdf
+file: /media/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/877ee3bcaa6cf36b82d9ca6ed3e585ae_lec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: lec1.pdf
 uid: 877ee3bc-aa6c-f36b-82d9-ca6ed3e585ae

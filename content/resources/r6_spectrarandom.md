@@ -3,8 +3,13 @@ content_type: resource
 description: 'This resource covers the following topics: Stationary and Ergodic random
   processes, spectrum, application of spectrum to LTI systems, short term statistics,
   and contains list of some useful references.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/aa1f255ddc1ae6960cc933d7dcde5c66_r6_spectrarandom.pdf
+file: /media/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/aa1f255ddc1ae6960cc933d7dcde5c66_r6_spectrarandom.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: r6_spectrarandom.pdf
 uid: aa1f255d-dc1a-e696-0cc9-33d7dcde5c66
