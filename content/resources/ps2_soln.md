@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c6cdcb0c-09c0-153f-c716-fe716ce92940
 resourcetype: Document
 title: ps2_soln.pdf
 uid: 6a427326-9142-8852-6e0a-90bf6c9fb5a3

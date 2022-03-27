@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 205a85f4-3228-ece0-e6ee-40016dde715f
 resourcetype: Document
 title: r5_randomproc.pdf
 uid: 275ae312-3cc4-36fc-9372-135f12bf2b3c

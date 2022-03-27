@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c6cdcb0c-09c0-153f-c716-fe716ce92940
 resourcetype: Document
 title: pna_striptheory.pdf
 uid: 331cc5bc-e82c-e9db-8231-a5be9b0a2756

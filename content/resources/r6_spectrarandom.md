@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 205a85f4-3228-ece0-e6ee-40016dde715f
 resourcetype: Document
 title: r6_spectrarandom.pdf
 uid: aa1f255d-dc1a-e696-0cc9-33d7dcde5c66

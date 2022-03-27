@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 205a85f4-3228-ece0-e6ee-40016dde715f
 resourcetype: Document
 title: lec6_wavespectra.pdf
 uid: 264591d7-a2eb-9723-5ced-f3c42afc1d56

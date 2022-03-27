@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 205a85f4-3228-ece0-e6ee-40016dde715f
 resourcetype: Document
 title: r8_wavespectra.pdf
 uid: 3fd34b15-f4d9-ddbe-1676-97b3c4e7cca5
