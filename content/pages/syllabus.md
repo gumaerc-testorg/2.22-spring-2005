@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section contains course description and course outline information.
+  It also provides the grading distribution details and lists some useful readings
+  for the class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

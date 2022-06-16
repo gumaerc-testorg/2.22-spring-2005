@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The projects section explains the preliminary instructions to be followed
+  and lists pointers about the two topics to choose from for this class (one related
+  to ships and one related to offshore platforms).
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

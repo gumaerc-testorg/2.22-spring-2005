@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The calendar lists the topics covered during the lecture sessions along
+  with the homeworks due dates information.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

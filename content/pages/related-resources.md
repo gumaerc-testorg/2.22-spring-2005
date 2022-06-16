@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'The related resources section lists the various web sites where additional
+  helpful resources for the class can be found. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
