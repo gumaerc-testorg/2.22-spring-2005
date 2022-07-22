@@ -7,6 +7,7 @@ file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/71244
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: hw9.pdf
 uid: 712445b1-13aa-53f9-f922-5260ce8c4584
 ---
 This resource contains 3 problems on various operational limits, natural frequency, frequency of Vortex shedding, Phases (time in the wave cycle), center of force along the height cylinder.
-

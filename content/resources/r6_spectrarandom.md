@@ -7,6 +7,7 @@ file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/aa1f2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: r6_spectrarandom.pdf
 uid: aa1f255d-dc1a-e696-0cc9-33d7dcde5c66
 ---
 This resource covers the following topics: Stationary and Ergodic random processes, spectrum, application of spectrum to LTI systems, short term statistics, and contains list of some useful references.
-

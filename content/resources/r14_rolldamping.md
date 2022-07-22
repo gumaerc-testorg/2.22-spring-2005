@@ -6,6 +6,7 @@ file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/0f0a2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: r14_rolldamping.pdf
 uid: 0f0a23b2-8174-0eb6-e302-6683b69d3616
 ---
 This resource covers the following topics: Roll motion, and equivalent linearization.
-

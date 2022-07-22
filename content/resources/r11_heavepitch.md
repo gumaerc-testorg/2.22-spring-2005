@@ -6,6 +6,7 @@ file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/09374
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: r11_heavepitch.pdf
 uid: 09374134-6a92-1052-2086-f8bb435c3121
 ---
 This resource covers the topic: coupled equation of motion in Heave and Pitch.
-

@@ -7,6 +7,7 @@ file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/fea03
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: r1_lti.pdf
 uid: fea036f3-255f-a482-4279-668c7ff8c6cd
 ---
 This resource covers the following topics: Dynamical systems, finding the impulse response of a typical linear system, and contains list of some useful references.
-

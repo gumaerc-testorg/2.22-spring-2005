@@ -6,6 +6,7 @@ file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/23251
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw5.pdf
 uid: 23251081-39c3-e3f9-cdae-47b262442516
 ---
 This resource contains 3 problems on discrete spectrum of unidirectional seas in deep water, continuous sea spectrum, and ship in heave.
-

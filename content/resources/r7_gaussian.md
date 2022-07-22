@@ -6,6 +6,7 @@ file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/65b72
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: r7_gaussian.pdf
 uid: 65b72227-28ae-f389-5d25-368a6f01f6e4
 ---
 This resource covers the following topics: Gaussian distribution, and Poisson distribution.
-

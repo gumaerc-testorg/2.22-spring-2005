@@ -5,6 +5,7 @@ file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/8fdd7
 file_type: application/msword
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: calibration.xls
 uid: 8fdd7279-a9ac-8907-68a1-de5e0a0f8008
 ---
 This resource contains data about Calibration of Heave and Pitch Sensors.
-

@@ -7,6 +7,7 @@ file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/c3bcc
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: r4_randomvar.pdf
 uid: c3bcc277-054e-b78c-8fd9-5d47e0008b80
 ---
 This resource covers the following topics: Random variables, probability distribution, Cumulative distribution function (CDF), functions of random variables, and central limit theorem.
-

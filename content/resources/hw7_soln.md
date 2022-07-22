@@ -6,6 +6,7 @@ file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/34547
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw7_soln.pdf
 uid: 34547ff2-6244-2c68-74f0-49f9f56c839b
 ---
 This resource contains solutions to the 2 problems on boundary conditions, wave potential, heave and sway Froude-Krylov exciting force.
-

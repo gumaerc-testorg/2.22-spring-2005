@@ -6,6 +6,7 @@ file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/25aa2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: r12_seakeep_rp.pdf
 uid: 25aa2598-1a76-8803-a7f3-333dfd825745
 ---
 This resource covers the following topics: Coupled motions, Seakeeping, and Complex events.
-

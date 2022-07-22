@@ -7,6 +7,7 @@ file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/ac13f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: r2_fourier.pdf
 uid: ac13ffd0-f46a-c8a7-a51e-4dfb510f5ce5
 ---
 This resource covers the following topics: Fourier series, Fourier transform, convolution and the Fourier transform, LTI systems and Fourier transform, and contains list of some useful references.
-
