@@ -48,7 +48,11 @@
     "content": "d095c522-bfbe-83e7-b3b8-53061d1a6906",
     "website": "2-22-design-principles-for-ocean-vehicles-13-42-spring-2005"
   },
-  "learning_resource_types": [],
-  "site_uid": "cdfbf7bf-4750-4921-b0b7-5fd21e5e7de8",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Projects"
+  ],
+  "site_uid": "12ae1b36-a0ca-43c2-af50-43ffd9e4d91a",
+  "site_short_id": "2.22-spring-2005",
   "title": "Course Metadata"
 }
