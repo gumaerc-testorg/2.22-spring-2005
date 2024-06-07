@@ -4,6 +4,7 @@ description: This resource contains solutions to the 3 problems on various opera
   limits, natural frequency, frequency of Vortex shedding, Phases (time in the wave
   cycle), center of force along the height cylinder.
 file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/dfa2851b8aee4fb0f23ab80a7a11131f_hw9_soln.pdf
+file_size: 736739
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -4,6 +4,7 @@ description: 'This resource covers the following topics: Froude Krylov excitatio
   force, vertical and horizonatal Froude-Krylov force on a single hull vessel, and
   Multi hulled vessel.'
 file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/01c83cdac21bd20a928cca00fa326da7_r10_froudekrylov.pdf
+file_size: 167503
 file_type: application/pdf
 learning_resource_types:
 - Readings

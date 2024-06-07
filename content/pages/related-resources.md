@@ -10,10 +10,10 @@ uid: ab1cb17a-d206-e89e-4ccc-785cc9a211a3
 
 Additional resources can be found at these Web sites:
 
-{{% resource_link "8e45cd7a-51af-4955-96ec-0069a67b19bd" "Woods Hole Oceanographic Institute" %}}
+[Woods Hole Oceanographic Institute](http://www.whoi.edu/)
 
-{{% resource_link "270c85db-be49-4810-b847-7a9a26599b31" "Monterey Bay Aquarium Research Institute" %}}
+[Monterey Bay Aquarium Research Institute](http://www.mbari.org/)
 
-{{% resource_link "1203b268-7ec6-47bd-bc08-7d2cfcd01d05" "Scripps Institution of Oceanography" %}}
+[Scripps Institution of Oceanography](https://scripps.ucsd.edu/)
 
-{{% resource_link "e4989735-48bc-4f84-baff-1bdd102da2a8" "JPL's TOPEX/Poseidon Images" %}}
+[JPL's TOPEX/Poseidon Images](http://topex-www.jpl.nasa.gov/)
