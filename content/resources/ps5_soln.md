@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions to the 4 problems on wave elevation,
   linear system, deck clearance, ocean waves, and Bretschneider Spectrum.
 file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/317547576324d8e964c24afc159434b6_ps5_soln.pdf
+file_size: 533577
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
