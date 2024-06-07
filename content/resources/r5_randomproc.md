@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource covers the following topics: Random processes, stationary
   random processes, and Ergodic random processes.'
 file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/275ae3123cc436fc9372135f12bf2b3c_r5_randomproc.pdf
+file_size: 85123
 file_type: application/pdf
 learning_resource_types:
 - Readings

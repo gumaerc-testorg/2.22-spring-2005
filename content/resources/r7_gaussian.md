@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource covers the following topics: Gaussian distribution, and
   Poisson distribution.'
 file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/65b7222728aef3895d25368a6f01f6e4_r7_gaussian.pdf
+file_size: 123580
 file_type: application/pdf
 learning_resource_types:
 - Readings
