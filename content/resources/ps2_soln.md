@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to the 6 problems on linear/time variant
   systems, LTI systems, Fourier transform, transfer functions, and convolution.
-file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/6a427326914288526e0a90bf6c9fb5a3_ps2_soln.pdf
+file: /ol-ocw-studio-app/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/6a427326914288526e0a90bf6c9fb5a3_ps2_soln.pdf
 file_size: 508444
 file_type: application/pdf
 learning_resource_types: []
