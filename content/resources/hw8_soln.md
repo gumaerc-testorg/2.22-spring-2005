@@ -4,7 +4,7 @@ description: This resource contains solutions to the 2 problems on added mass an
   damping coefficients, restoring coefficients, magnitudes of the Froude-Krylov heave
   excitation force, transfer functions, surge excitation force, and natural frequency
   of the buoy in heave.
-file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/d63eaa9718dfc2cf1a6eaea13e15e489_hw8_soln.pdf
+file: /ol-ocw-studio-app/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/d63eaa9718dfc2cf1a6eaea13e15e489_hw8_soln.pdf
 file_size: 500185
 file_type: application/pdf
 learning_resource_types:
