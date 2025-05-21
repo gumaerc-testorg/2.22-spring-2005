@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains data about Calibration of Heave and Pitch Sensors.
-file: /ol-ocw-studio-app/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/8fdd7279a9ac890768a1de5e0a0f8008_calibration.xls
+file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/8fdd7279a9ac890768a1de5e0a0f8008_calibration.xls
 file_size: 45056
 file_type: application/msword
 learning_resource_types:
