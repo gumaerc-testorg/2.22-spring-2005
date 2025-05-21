@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 6 problems on ocean waves, Bretschneider spectrum,
   laboratory experiments, frequency and encounter frequency.
-file: /ol-ocw-studio-app/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/bbd00c1d4faaa96d3c957e668a84750f_hw6.pdf
+file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/bbd00c1d4faaa96d3c957e668a84750f_hw6.pdf
 file_size: 111882
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information about the lab. It explains in detail:
   the introduction, experimental procedure, and lab write-up, data analysis.'
-file: /ol-ocw-studio-app/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/332f613a4c70bad8ab90e6a82f3b556c_lab.pdf
+file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/332f613a4c70bad8ab90e6a82f3b556c_lab.pdf
 file_size: 197582
 file_type: application/pdf
 learning_resource_types:
