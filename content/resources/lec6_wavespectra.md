@@ -6,7 +6,7 @@ description: This resource describes Ocean wave generation. It contains World Me
   Bretschneider spectrum, JONSWAP spectrum, Ochi spectrum, Storm and Swell, directionality
   in waves, short term and long term statistics, Storm statistics, and observed wave
   heights.
-file: /ol-ocw-studio-app/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/264591d7a2eb97235cedf3c42afc1d56_lec6_wavespectra.pdf
+file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/264591d7a2eb97235cedf3c42afc1d56_lec6_wavespectra.pdf
 file_size: 2557654
 file_type: application/pdf
 learning_resource_types:

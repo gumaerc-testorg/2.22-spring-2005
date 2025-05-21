@@ -6,7 +6,7 @@ description: 'This resource contains image of Offshore Platform. It explains cla
 
   Number, Vortex induced forces, equation of Cylinder Heave due to Vortex shedding,
   Lift force on a cylinder, Amplitude estimation, and Flexible cylinders.'
-file: /ol-ocw-studio-app/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/a24c472bd661041ca324316bae7a5446_lec20_viv1.pdf
+file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/a24c472bd661041ca324316bae7a5446_lec20_viv1.pdf
 file_size: 606195
 file_type: application/pdf
 learning_resource_types:

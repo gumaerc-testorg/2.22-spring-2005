@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource covers the following topics: Overview of basic probability,
   conditional probability, law of total probability and Bayes theorem, contains some
   examples, probability given multiple trials, and contains list of some useful references.'
-file: /ol-ocw-studio-app/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/98a5370ff115ea213eaed364d3220ceb_r3_probability.pdf
+file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/98a5370ff115ea213eaed364d3220ceb_r3_probability.pdf
 file_size: 111315
 file_type: application/pdf
 learning_resource_types:
