@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 8 problems on LTI systems, Fourier transform,
   and linear waves.
-file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/e0f4fef3bf324eb7979f6b8044db2d76_hw2.pdf
+file: /ol-ocw-studio-app/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/e0f4fef3bf324eb7979f6b8044db2d76_hw2.pdf
 file_size: 757431
 file_type: application/pdf
 learning_resource_types:

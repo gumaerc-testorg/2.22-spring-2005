@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to the 2 problems on analyzing Bretschneider
   Spectrum.
-file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/f4b208076622089859f0cf3a715d9fc9_ps6_soln.pdf
+file: /ol-ocw-studio-app/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/f4b208076622089859f0cf3a715d9fc9_ps6_soln.pdf
 file_size: 127174
 file_type: application/pdf
 learning_resource_types: []
