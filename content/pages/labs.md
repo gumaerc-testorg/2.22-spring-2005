@@ -4,7 +4,7 @@ description: The labs section contains the lab description and MATLAB? Processin
   Code for Lab Data. It also provides student data for both stationary and forward-moving
   components of the lab, and lists the various lab report requirements.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: b1f6c03f-4453-462f-ac37-01809dc71f8e

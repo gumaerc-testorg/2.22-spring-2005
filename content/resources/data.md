@@ -2,11 +2,11 @@
 content_type: resource
 description: 'This resource contains Lab Data for Teams 1-4. (The ZIP file contains:
   63 .asc files, and 44 .i32 files.)'
-file: /courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/6a53eb0eaa874c008c7b570460789e84_data.zip
+file: /ol-ocw-studio-app/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/6a53eb0eaa874c008c7b570460789e84_data.zip
 file_size: 39129
 file_type: application/zip
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
